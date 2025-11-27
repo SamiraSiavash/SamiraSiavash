@@ -1,14 +1,73 @@
-# Hi 👋 My name is Samira Siavash
-## Senior SQL Database Engineer | BPM Developer
-### -	👀 I really like problem solving, that's why programming, solving puzzles, and Rubik's Cube are my favorite things.
-### -	🌱 I’m currently learning power BI.
-### -	📫 You can contact me at s.siavash.m@gmail.com
+# 👋 Hi, I'm Samira Siavash
+
+### 🚀 Aspiring Data Engineer | Python Developer | SQL & BI Enthusiast
+
+I work with financial software systems and business processes, where I’ve gained hands-on experience in how real-world data is captured, structured, and used for decision‑making. My background includes implementing and supporting integrated financial systems, working with business workflows, and collaborating with technical and non‑technical teams.
+
 ---
-### Skills
 
-![Image](https://github.com/user-attachments/assets/9097a6ae-e7fe-4cb7-a074-f4422a4effad) ![Image](https://github.com/user-attachments/assets/8dd30a19-73a2-42f8-b2fb-c551cfd201ef) ![Image](https://github.com/user-attachments/assets/e20bc64f-d63e-4217-865a-e8a8a4903bf1) ![PBI](https://github.com/user-attachments/assets/88ba59af-b2d1-4c9f-b7fe-c02562682a4b)
+## 🔧 Technologies & Tools
+
+### **Languages & Programming**
+
+* Python (Pandas, Requests, Web Scraping)
+* Scala (Basics for Apache Spark)
+* SQL (T‑SQL, PostgreSQL)
+* Linux Shell Commands
+
+### **Databases**
+
+* SQL Server
+* PostgreSQL
+* MongoDB (NoSQL)
+
+### **Business Intelligence**
+
+* Power BI (Dashboards, Modeling, DAX fundamentals)
+* Grafana 
+
+### **Other Skills**
+
+* API Integration (REST / Web Services)
+* Data Cleaning & Transformation
+* Process Design & Workflow Optimization
+
 ---
-### Socials
 
-![Image](https://github.com/user-attachments/assets/0a63245d-dedf-4d48-84cd-6bcf32c7e1b0) ![Image](https://github.com/user-attachments/assets/b2363fa2-28df-4bef-a524-4d20bfe300e1) ![Image](https://github.com/user-attachments/assets/794bd0b4-d433-4b84-9eec-1e93a7eb55cc) 
+## 📊 Featured Projects
 
+### 🔹 **Grafana Monitoring Dashboard**
+
+### 🔹 **Chinook Analytics Dashboard – Power BI**
+
+Interactive multi-page dashboard analyzing music sales, customers, albums, and artists.
+
+### 🔹 **Students Performance Dashboard – Power BI**
+
+A full analytical report including KPIs, filters, and multi-sheet insights.
+
+### 🔹 **File Explorer (Python GUI)**
+
+A simple desktop tool for navigating local files and directories.
+
+---
+
+## 🎯 Career Goals
+
+I’m expanding my expertise into **Data Engineering**, focusing on:
+
+* ETL pipelines
+* Data warehouse concepts
+* Working with structured & unstructured data
+* Automation and workflow optimization
+
+I enjoy solving analytical challenges, organizing messy data, and transforming it into meaningful insights.
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** [https://linkedin.com/in/samira-siavash](https://linkedin.com/in/samira-siavash)
+* **GitHub:** [https://github.com/SamiraSiavash](https://github.com/SamiraSiavash)
+
+Let’s connect and talk about data, BI, and engineering solutions!
