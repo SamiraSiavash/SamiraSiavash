@@ -34,21 +34,47 @@ I work with financial software systems and business processes, where I’ve gain
 
 ---
 
-## 📊 Featured Projects
+## 🌟 Featured Projects
 
-### 🔹 **Grafana Monitoring Dashboard**
+### 🧪 Perfume_Scraper  
+A Python-based web scraping project that collects structured perfume product data (brand, prices, titles, photos, ratings) from Liliome.com and stores it in a SQLite database.  
+**Tech:** Python, Requests, BeautifulSoup, SQLite
 
-### 🔹 **Chinook Analytics Dashboard – Power BI**
+---
 
-Interactive multi-page dashboard analyzing music sales, customers, albums, and artists.
+### 🤖 Selenium-Excel-Downloader  
+A browser automation tool using Selenium to download and organize Excel files, demonstrating real-world automation patterns.  
+**Tech:** Python, Selenium, Excel
 
-### 🔹 **Students Performance Dashboard – Power BI**
+---
 
-A full analytical report including KPIs, filters, and multi-sheet insights.
+### 👤 User Management Application  
+A full-featured application for managing user data including registration, authentication, and profile operations.  
+**Tech:** Python, SQLite
 
-### 🔹 **File Explorer (Python GUI)**
+---
 
-A simple desktop tool for navigating local files and directories.
+### 📁 File Explorer  
+A desktop-style file explorer tool with navigation, file operations, and UI interactions.  
+**Tech:** Python, Tkinter
+
+---
+
+### 📊 Grafana-Northwind-Dashboard  
+A comprehensive Grafana dashboard for visual analytics on the classic Northwind dataset.  
+**Tech:** Grafana, PostgreSQL, Data Visualization
+
+---
+
+### 📈 Students-dashboard  
+An interactive dashboard visualizing student performance metrics, built with Power BI, custom measures, and clean visuals.  
+**Tech:** Power BI, DAX, Data Modeling
+
+---
+
+### ☎️ Phonebook  
+A simple and intuitive phonebook application for managing contacts, including add/edit/delete functionality.  
+**Tech:** Python
 
 ---
 
@@ -69,5 +95,6 @@ I enjoy solving analytical challenges, organizing messy data, and transforming i
 
 * **LinkedIn:** [https://linkedin.com/in/samira-siavash](https://linkedin.com/in/samira-siavash)
 * **GitHub:** [https://github.com/SamiraSiavash](https://github.com/SamiraSiavash)
+* **Email:** [s.siavash.m@gmail.com](mailto:s.siavash.m@gmail.com)
 
 Let’s connect and talk about data, BI, and engineering solutions!
