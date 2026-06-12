@@ -1,107 +1,163 @@
 # 👋 Hi, I'm Samira Siavash
 
-### 🚀 Aspiring Data Engineer | Python Developer | SQL & BI Enthusiast
+### Python Developer | Data Engineering Enthusiast | BI & Analytics
 
-I work with financial software systems and business processes, where I’ve gained hands-on experience in how real-world data is captured, structured, and used for decision‑making. My background includes implementing and supporting integrated financial systems, working with business workflows, and collaborating with technical and non‑technical teams.
+I have a background in financial software implementation and support, where I gained hands-on experience working with business processes, databases, and real-world data.
+
+My interests lie in data engineering, analytics, and automation. I enjoy building data pipelines, integrating data from different sources, transforming raw data into meaningful insights, and creating solutions that support data-driven decision-making.
+
+Currently, I am expanding my skills through practical projects involving Apache Kafka, Apache Airflow, Apache Spark, PostgreSQL, MongoDB, ClickHouse, Grafana, and Power BI, while continuing to strengthen my expertise in Python and SQL.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Tech Stack
 
-### **Languages & Programming**
+### Programming & Data Processing
 
-* Python (Pandas, Requests, Web Scraping)
-* Scala (Basics for Apache Spark)
-* SQL (T‑SQL, PostgreSQL)
-* Linux Shell Commands
+* Python
+* SQL
+* Scala (Apache Spark Fundamentals)
+* Linux
 
-### **Databases**
+### Data Engineering
 
-* SQL Server
-* PostgreSQL
-* MongoDB (NoSQL)
-
-### **Business Intelligence**
-
-* Power BI (Dashboards, Modeling, DAX fundamentals)
-* Grafana 
-
-### **Other Skills**
-
-* API Integration (REST / Web Services)
+* Apache Kafka
+* Apache Airflow
+* Apache Spark
+* ETL Development
 * Data Cleaning & Transformation
-* Process Design & Workflow Optimization
+
+### Databases
+
+* PostgreSQL
+* SQL Server
+* MongoDB
+* ClickHouse
+
+### Analytics & Visualization
+
+* Power BI
+* Grafana
+
+### Tools
+
+* Git & GitHub
+* Docker
+* REST APIs
+* Web Scraping
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🧪 Perfume_Scraper  
-A Python-based web scraping project that collects structured perfume product data (brand, prices, titles, photos, ratings) from Liliome.com and stores it in a SQLite database.  
-**Tech:** Python, Requests, BeautifulSoup, SQLite
-**Focus:** Web data extraction, data cleaning, and structured storage for analytics.
+### 📡 Kafka Spam Detection Pipeline
 
----
+Real-time spam classification pipeline using Kafka, Machine Learning, and PostgreSQL.
 
-### 🤖 Selenium-Excel-Downloader  
-A browser automation tool using Selenium to download and organize Excel files, demonstrating real-world automation patterns.  
-**Tech:** Python, Selenium, Excel
-**Focus:** Process automation, file handling, and repeatable data ingestion workflows.
+**Tech:** Kafka, Python, PostgreSQL, Scikit-Learn
 
 ---
 
-### 👤 User Management Application  
-A full-featured application for managing user data including registration, authentication, and profile operations.  
-**Tech:** Python, SQLite
-**Focus:** Structured data modeling, CRUD operations, and application-level data management.
+### 🔄 SMS ETL Pipeline
+
+End-to-end ETL workflow for extracting, transforming, and loading SMS datasets.
+
+**Tech:** Python, PostgreSQL, ETL
 
 ---
 
-### 📁 File Explorer  
-A desktop-style file explorer tool with navigation, file operations, and UI interactions.  
-**Tech:** Python, Tkinter
-**Focus:** File system interaction, data organization, and user-driven data operations.
+### 🌐 Divar API to PostgreSQL
+
+Automated data ingestion pipeline that extracts data from the Divar API and stores it in PostgreSQL.
+
+**Tech:** Python, REST API, PostgreSQL
 
 ---
 
-### 📊 Grafana-Northwind-Dashboard  
-A comprehensive Grafana dashboard for visual analytics on the classic Northwind dataset.  
-**Tech:** Grafana, PostgreSQL, Data Visualization
-**Focus:** KPI-driven dashboards, analytical reporting, and data visualization.
+### ⚙️ Divar Airflow Pipeline
+
+Workflow orchestration and scheduling using Apache Airflow.
+
+**Tech:** Apache Airflow, Python, PostgreSQL
 
 ---
 
-### 📈 Students-dashboard  
-An interactive dashboard visualizing student performance metrics, built with Power BI, custom measures, and clean visuals.  
+### 🧹 Data Cleaning Project
+
+Data preprocessing, cleaning, and transformation workflow for analytics-ready datasets.
+
+**Tech:** Python, Pandas
+
+---
+
+### 🔥 Spark Data Processing Project
+
+Large-scale dataset processing, cleaning, and transformation using Apache Spark.
+
+**Tech:** Spark, Python, Scala, Parquet
+
+---
+
+### 🏛️ ClickHouse Analytics Project
+
+Analytical processing and reporting using ClickHouse, PostgreSQL, and Grafana.
+
+**Tech:** ClickHouse, PostgreSQL, Grafana
+
+---
+
+### 📊 Grafana Analytics Dashboard
+
+Interactive dashboards and KPI monitoring for business analytics.
+
+**Tech:** Grafana, PostgreSQL
+
+---
+
+### 📈 Students Dashboard
+
+Interactive Power BI dashboard for analyzing student performance metrics.
+
 **Tech:** Power BI, DAX, Data Modeling
-**Focus:** Data modeling, DAX measures, and insight-driven BI reporting.
 
 ---
 
-### ☎️ Phonebook  
-A simple and intuitive phonebook application for managing contacts, including add/edit/delete functionality.  
-**Tech:** Python
-**Focus:** Basic data storage, validation, and CRUD-based data handling.
+### 🌸 Perfume Scraper
+
+Web scraping project for collecting and storing perfume product data.
+
+**Tech:** Python, Requests, BeautifulSoup, SQLite
 
 ---
 
-## 🎯 Career Goals
+## 📚 Currently Learning
 
-I’m expanding my expertise into **Data Engineering**, focusing on:
+* Apache Spark
+* ClickHouse
+* Data Warehousing
+* Data Modeling
+* Distributed Data Processing
+* Real-Time Data Pipelines
 
-* ETL pipelines
-* Data warehouse concepts
-* Working with structured & unstructured data
-* Automation and workflow optimization
+---
 
-I enjoy solving analytical challenges, organizing messy data, and transforming it into meaningful insights.
+## 🎯 Career Focus
+
+* Data Engineering
+* ETL & ELT Pipelines
+* Data Platforms
+* Analytics Engineering
+* Big Data Processing
+* Workflow Automation
 
 ---
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [https://linkedin.com/in/samira-siavash](https://linkedin.com/in/samira-siavash)
-* **GitHub:** [https://github.com/SamiraSiavash](https://github.com/SamiraSiavash)
-* **Email:** [s.siavash.m@gmail.com](mailto:s.siavash.m@gmail.com)
+**LinkedIn:** [https://linkedin.com/in/samira-siavash](https://linkedin.com/in/samira-siavash)
+
+**GitHub:** [https://github.com/SamiraSiavash](https://github.com/SamiraSiavash)
+
+**Email:** [s.siavash.m@gmail.com](mailto:s.siavash.m@gmail.com)
 
 Let’s connect and talk about data, BI, and engineering solutions!
