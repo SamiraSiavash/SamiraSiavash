@@ -48,16 +48,6 @@ Currently, I am expanding my skills through practical projects involving Apache 
 
 ---
 
-## 🚀 Featured Projects
-
-### 📡 Kafka Spam Detection Pipeline
-
-Real-time spam classification pipeline using Kafka, Machine Learning, and PostgreSQL.
-
-**Tech:** Kafka, Python, PostgreSQL, Scikit-Learn
-
----
-
 ### 🔄 SMS ETL Pipeline
 
 End-to-end ETL workflow for extracting, transforming, and loading SMS datasets.
@@ -74,7 +64,7 @@ Automated data ingestion pipeline that extracts data from the Divar API and stor
 
 ---
 
-### ⚙️ Divar Airflow Pipeline
+### ⚙️ Digikala Price Pipeline
 
 Workflow orchestration and scheduling using Apache Airflow.
 
